@@ -11,7 +11,6 @@ With features like **test tracking, filtering, sorting, goal setting, and progre
 
 ### ✅ **Test Tracking & Management**
 - **Dynamic Test List**: Displays all recorded tests in a structured **table format**.
-- **Auto-Generated Tests**: Tests are automatically generated upon app startup.
 - **Test Details**: Displays **test name, subject, score, total marks, percentage**, and **reflection**.
 - **Mock Exam Toggle**: Tests can be marked/unmarked as **mock exams**.
 - **Add, Edit, and Delete Tests**:
