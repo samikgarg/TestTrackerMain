@@ -81,6 +81,6 @@ With features like **test tracking, filtering, sorting, goal setting, and progre
 - **Java** (Backend Logic)
 - **Java Swing & AWT** (User Interface)
 - **SQLite** (Database Management)
-- **JFreeChart Charts & Graphs** (Data Visualization)
+- **JFreeChart** (Data Visualization)
 
 ---
