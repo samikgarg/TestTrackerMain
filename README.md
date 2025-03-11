@@ -79,7 +79,7 @@ With features like **test tracking, filtering, sorting, goal setting, and progre
 
 ## 🛠️ Technologies Used
 - **Java** (Backend Logic)
-- **JavaFX** (User Interface)
+- **Java Swing** (User Interface)
 - **SQLite** (Database Management)
 - **Charts & Graphs** (Data Visualization)
 
